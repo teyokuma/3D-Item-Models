@@ -1,6 +1,6 @@
 {
   "parent": "item/templates/tinted_cross",
   "textures": {
-    "cross": "block/grass"
+    "cross": "block/short_grass"
   }
 }
