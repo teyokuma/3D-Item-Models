@@ -1,73 +1,28 @@
 {
 	"parent": "block/block",
 	"textures": {
-		"front": "painting/wind",
-		"frame": "painting/alban",
+		"painting": "painting/kebab",
 		"particle": "painting/back",
 		"back": "painting/back"
 	},
 	"elements": [
 		{
-			"name": "frame",
 			"from": [0, 0, 7.5],
-			"to": [1, 16, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"to": [16, 16, 8.5],
 			"faces": {
-				"north": {"uv": [15, 0, 16, 16], "texture": "#back"},
-				"south": {"uv": [0, 0, 1, 16], "texture": "#frame"},
+				"north": {"uv": [0, 0, 16, 16], "texture": "#back"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#back"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#painting"},
 				"west": {"uv": [0, 0, 1, 16], "texture": "#back"},
-				"up": {"uv": [0, 0, 1, 1], "texture": "#back"},
-				"down": {"uv": [0, 15, 1, 16], "texture": "#back"}
-			}
-		},
-		{
-			"name": "frame",
-			"from": [15, 0, 7.5],
-			"to": [16, 16, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"faces": {
-				"north": {"uv": [0, 0, 1, 16], "texture": "#back"},
-				"east": {"uv": [15, 0, 16, 16], "texture": "#back"},
-				"south": {"uv": [15, 0, 16, 16], "texture": "#frame"},
-				"up": {"uv": [15, 0, 16, 1], "texture": "#back"},
-				"down": {"uv": [15, 15, 16, 16], "texture": "#back"}
-			}
-		},
-		{
-			"name": "frame",
-			"from": [0, 15, 7.5],
-			"to": [16, 16, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"faces": {
-				"north": {"uv": [0, 0, 16, 1], "texture": "#back"},
-				"east": {"uv": [15, 0, 16, 1], "texture": "#back"},
-				"south": {"uv": [0, 0, 16, 1], "rotation": 180, "texture": "#frame"},
-				"west": {"uv": [0, 0, 1, 1], "texture": "#back"},
-				"up": {"uv": [0, 0, 16, 1], "texture": "#back"}
-			}
-		},
-		{
-			"name": "frame",
-			"from": [0, 0, 7.5],
-			"to": [16, 1, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"faces": {
-				"north": {"uv": [0, 15, 16, 16], "texture": "#back"},
-				"east": {"uv": [15, 15, 16, 16], "texture": "#back"},
-				"south": {"uv": [0, 15, 16, 16], "rotation": 180, "texture": "#frame"},
-				"west": {"uv": [0, 15, 1, 16], "texture": "#back"},
+				"up": {"uv": [0, 0, 16, 1], "texture": "#back"},
 				"down": {"uv": [0, 0, 16, 1], "texture": "#back"}
 			}
-		},
-		{
-			"name": "painting",
-			"from": [1, 1, 7.5],
-			"to": [15, 15, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"faces": {
-				"north": {"uv": [1, 1, 15, 15], "texture": "#back"},
-				"south": {"uv": [4.5, 4.5, 11.5, 11.5], "texture": "#front"}
-			}
 		}
-	]
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 0, -7.5]
+		}
+	}
 }

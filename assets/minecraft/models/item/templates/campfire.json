@@ -81,8 +81,13 @@
                 "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" }
             }
         }
-    ],
-    "gui_light": "front"
+	],
+    "gui_light": "front",
+	"display": {
+        "head": {
+			"translation": [0, 14.25, 0]
+		}
+    }
 }
 
 
