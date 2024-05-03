@@ -1,5 +1,42 @@
 # Changelog
 
+## 1.8.0 (0000-00-00)
+
+- Added crafter
+- Added heavy_core
+- Added weathered_copper_door
+- Added oxidized_copper_door
+- Added exposed_copper_door
+- Added copper_door
+- Added wolf_armor
+- Fixed horse_armor
+- Fixed saddle
+- Fixed elytra
+- Fixed shulker_shell
+- Fixed leggings
+- Fixed item_frame
+- Fixed helmet
+- Fixed chestplate
+- Fixed campfire
+- Fixed boots
+- Fixed smoker
+- Fixed painting
+- Fixed furnace
+- Fixed flower_pot
+- Fixed ender_chest
+- Fixed dropper
+- Fixed dispenser
+- Fixed decorated_pot
+- Fixed crafting_table
+- Fixed conduit
+- Fixed chest
+- Fixed blast_furnace
+- Fixed stairs
+- Fixed short_grass
+- Fixed all blocks
+- Update pack.png
+- Update pack.mcmeta
+
 ## 1.7.0 (2023-06-07)
 
 - Added Pitcher Plant
@@ -181,9 +218,9 @@
 
 ## 1.1 (2021-07-26)
 
-- Update pack.png
 - Fixed Boats
 - Fixed Lanterns
 - Fixed Lever
 - Fixed Tripwire Hook
 - Fixed Turtle Egg
+- Update pack.png
