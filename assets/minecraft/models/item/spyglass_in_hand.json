@@ -49,8 +49,8 @@
             "scale": [1.5, 1.5, 1.5]
         },
         "firstperson_righthand": {
-            "rotation": [ 0, 45, 0 ],
-            "scale": [ 0.68, 0.68, 0.68 ]
+            "rotation": [0, 45, 0],
+            "scale": [0.68, 0.68, 0.68]
         }
     }
 }

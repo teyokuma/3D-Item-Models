@@ -31,12 +31,5 @@
 				"down": {"uv": [7, 6, 9, 16], "rotation": 180, "texture": "#lever"}
 			}
 		}
-	],
-	"display": {
-		"gui": {
-			"rotation": [30, 135, 0],
-			"translation": [0, -0.5, 0],
-			"scale": [0.75, 0.75, 0.75]
-		}
-	}
+	]
 }
