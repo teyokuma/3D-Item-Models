@@ -13,6 +13,8 @@
 - Fixed saddle
 - Fixed elytra
 - Fixed shulker_shell
+- Fixed end_crystal
+- Fixed glass_pane
 - Fixed leggings
 - Fixed item_frame
 - Fixed helmet
