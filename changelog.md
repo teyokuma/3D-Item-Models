@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.8.0 (0000-00-00)
+## 1.8.0 (2024-05-21)
 
 - Added crafter
 - Added heavy_core
@@ -19,7 +19,7 @@
 - Fixed candle
 - Fixed repeater
 - Fixed comparator
-- Fixed lever
+- Fixed leverconduit
 - Fixed button
 - Fixed tripwire_hook
 - Fixed glass_pane
