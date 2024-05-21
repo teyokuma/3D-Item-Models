@@ -14,6 +14,14 @@
 - Fixed elytra
 - Fixed shulker_shell
 - Fixed end_crystal
+- Fixed torch
+- Fixed lantern
+- Fixed candle
+- Fixed repeater
+- Fixed comparator
+- Fixed lever
+- Fixed button
+- Fixed tripwire_hook
 - Fixed glass_pane
 - Fixed leggings
 - Fixed item_frame

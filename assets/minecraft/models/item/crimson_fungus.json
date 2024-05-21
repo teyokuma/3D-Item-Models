@@ -1,5 +1,5 @@
 {
-  "parent": "item/templates/flower_cross",
+  "parent": "item/templates/cross",
   "textures": {
     "cross": "block/crimson_fungus"
   }

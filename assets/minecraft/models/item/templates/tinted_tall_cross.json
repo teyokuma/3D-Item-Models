@@ -41,10 +41,5 @@
 				"south": {"uv": [0, 0, 16, 16], "texture": "#top", "tintindex": 0}
 			}
 		}
-	],
-	"display": {
-		"head": {
-			"translation": [0, 14.25, 0]
-		}
-	}
+	]
 }

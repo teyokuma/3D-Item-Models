@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/crafting_table",
+  "parent": "block/crafting_table",
   "gui_light": "side",
   "display": {
       "gui": {

@@ -73,13 +73,10 @@
 		}
 	],
 	"display": {
-		"head": {
-			"translation": [-14, -1.75, -0.25]
-		},
-		"firstperson_righthand": {
-			"rotation": [0, 135, 0],
-            "translation": [0, 0, 0],
-			"scale": [0.4, 0.4, 0.4]
+        "head": {
+            "rotation": [0, 0, 0],
+            "translation": [0, 14, 0],
+            "scale": [1, 1, 1]
 		}
 	}
 }

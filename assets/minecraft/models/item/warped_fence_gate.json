@@ -1,6 +1,0 @@
-{
-  "parent": "item/templates/fence_gate",
-  "textures": {
-    "texture": "block/warped_planks"
-  }
-}

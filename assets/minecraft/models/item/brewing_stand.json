@@ -82,9 +82,10 @@
 		}
 	],
 	"display": {
-		"fixed": {
-			"translation": [0, 0, 0.5],
-			"scale": [0.75, 0.75, 0.75]
+        "fixed": {
+            "rotation": [0, 0, 0],
+            "translation": [0, 0, 0.5],
+            "scale":[0.75, 0.75, 0.75]
 		}
 	}
 }

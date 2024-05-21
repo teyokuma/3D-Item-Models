@@ -146,11 +146,12 @@
 		"gui": {
 			"rotation": [30, -45, 0],
 			"translation": [0, 1.25, 0],
-			"scale": [0.425, 0.425, 0.425]
+			"scale": [0.41, 0.41, 0.41]
 		},
 		"head": {
 			"rotation": [0, 180, 0],
-			"translation": [0, 12, 0]
+			"translation": [0, 14, 0],
+			"scale": [1, 1, 1]
 		},
 		"fixed": {
 			"rotation": [270, 0, 0],

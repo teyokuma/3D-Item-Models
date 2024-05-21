@@ -1,6 +1,6 @@
 {
-  "parent": "item/templates/flat",
+  "parent": "item/templates/rail_flat",
   "textures": {
-    "flat": "block/detector_rail"
+    "rail": "block/detector_rail"
   }
 }
