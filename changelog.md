@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.8.1 (2024-06-15)
+
+- Update pack.mcmeta
+
 ## 1.8.0 (2024-05-21)
 
 - Added crafter
