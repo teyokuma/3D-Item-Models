@@ -2,6 +2,6 @@
   "pack": {
     "pack_format": 5,
     "description": "3D models for 2D sprite items\n§8by teyokuma",
-    "supported_formats": [ 5, 34 ]
+    "supported_formats": [ 5, 99 ]
   }
 }
