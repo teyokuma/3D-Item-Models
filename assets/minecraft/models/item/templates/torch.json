@@ -1,10 +1,11 @@
 {   
     "parent": "block/torch",
     "ambientocclusion": false,
+    "gui_light": "front",
     "display": {
         "gui": {
             "rotation": [30, 135, 0],
-            "translation": [0, 2.5, 0],
+            "translation": [0, 2.25, 0],
             "scale":[0.9375, 0.9375, 0.9375]
         },
         "ground": {

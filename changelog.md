@@ -9,7 +9,15 @@
 
 ### **Updated item models**
 
-- Updated third-person view
+- Updated model display
+  - lantern
+  - soul_lantern
+  - torch
+  - redstone_torch
+  - soul_torch
+  - ladder
+  - turtle_egg
+  - vine
   - minecart
   - hopper_minecart
   - chest_minecart

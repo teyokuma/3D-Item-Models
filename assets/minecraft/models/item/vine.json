@@ -9,7 +9,7 @@
         },
         "ground": {
             "rotation": [0, 0, 0],
-            "translation": [0, 3, 0],
+            "translation": [0, 3, 1.75],
             "scale":[0.25, 0.25, 0.25]
         },
         "fixed": {
