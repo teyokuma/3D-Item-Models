@@ -1,5 +1,6 @@
 {   
     "parent": "block/cross",
+    "ambientocclusion": false,
 	"gui_light": "front",
     "display": {
         "gui": {

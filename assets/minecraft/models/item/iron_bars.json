@@ -1,5 +1,6 @@
 {
 	"parent": "block/block",
+	"ambientocclusion": false,
 	"textures": {
 		"iron_bars": "block/iron_bars"
 	},
@@ -98,6 +99,11 @@
             "rotation": [0, 0, 0],
             "translation": [0, 0, 0],
             "scale":[0.75, 0.75, 0.75]
+		},
+        "head": {
+            "rotation": [0, 0, 0],
+            "translation": [0, 0, -8],
+            "scale": [1, 1, 1]
 		}
 	}
 }
