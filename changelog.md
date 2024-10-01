@@ -71,205 +71,45 @@
 
 ### **Mod compatibility**
 
-### Create Mod
+### *Most mod compatible support was provided by @willowisp2002. Thank you very much!*
 
-- Models added to 2D sprite items
-  - copper_diving_helmet
-  - netherite_diving_helmet
-  - copper_diving_boots
-  - netherite_diving_boots
-  - belt_connector
-  - controller_rail
-  - track
-  - minecart_coupling
-  - andesite_ladder
-  - brass_ladder
-  - copper_ladder
-  - andesite_door
-  - brass_boor
-  - copper_door
-  - train_door
-  - framed_glass_door
-  - minecart_contraption
-  - chest_minecart_contraption
-  - furnace_minecart_contraption
+- [Ad Astra](https://modrinth.com/mod/ad-astra)
 
-- Fixed to ensure consistency with other models
-  - linked_controller
-  - schematicannon
-  - cogwheel
-  - large_cogwheel
-  - creative_motor
-  - water_wheel
-  - large_water_wheel
-  - hand_crank
-  - cuckoo_clock
-  - crushing_wheel
-  - mechanical_press
-  - speedometer
-  - stressometer
-  - mechanical_pump
-  - smart_fluid_pipe
-  - fluid_valve
-  - hose_pulley
-  - portable_fluid_interface
-  - steam_engine
-  - steam_whistle
-  - gantry_carriage
-  - rope_pulley
-  - cart_assembler
-  - contraption_controls
-  - mechanical_drill
-  - mechanical_saw
-  - deployer
-  - potrable_storage_interface
-  - mechanical_harvester
-  - mechanical_roller
-  - sail_frame
-  - white_sail
-  - flywheel
-  - rotation_speed_controller
-  - controls
-  - andesite_funnel
-  - brass_funnel
-  - stockpile_switch
-  - nixie_tube
-  - redstone_link
-  - analog_lever
-  - placard
-  - pulse_repeater
-  - pulse_extender
-  - powered_latch
-  - powered_toggle_latch
-  - white_toolbox
-  - orange_toolbox
-  - magenta_toolbox
-  - light_blue_toolbox
-  - yellow_toolbox
-  - lime_toolbox
-  - pink_toolbox
-  - gray_toolbox
-  - light_gray_toolbox
-  - cyan_toolbox
-  - purple_toolbox
-  - blue_toolbox
-  - brown_toolbox
-  - green_toolbox
-  - red_toolbox
-  - black_toolbox
-  - andesite_bars
-  - brass_bars
-  - copper_bars
-  - white_seat
-  - orange_seat
-  - magenta_seat
-  - light_blue_seat
-  - yellow_seat
-  - lime_seat
-  - pink_seat
-  - gray_seat
-  - light_gray_seat
-  - cyan_seat
-  - purple_seat
-  - blue_seat
-  - brown_seat
-  - green_seat
-  - red_seat
-  - black_seat
+- [Architect's Palette](https://modrinth.com/mod/architects-palette)
 
-### Create: Steam 'n' Rails
+- [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)
 
-- Models added to 2D sprite items
-  - benchcart
-  - jukeboxcart
+- [Bountiful Fares](https://modrinth.com/mod/bountiful-fares)
 
-### Create Crafts & Additions
+- [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
 
-- Models added to 2D sprite items
-  - connector
-  - small_light_connector
-  - large_connector
-  - chocolate_cake
-  - honey_cake
+- [Create](https://modrinth.com/mod/create)
 
-- Fixed to ensure consistency with other models
-  - electric_motor
-  - alternator
-  - accumulator
-  - redstone_relay
-  - barbed_wire
-  - tesla_coil*
-  - portable_energy_interface
+- [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
 
-### Ad Astra
+- [Deeper and Darker](https://modrinth.com/mod/deeperdarker)
 
-- Models added to 2D sprite items
-  - steel_cable*
-  - desh_cable*
-  - desh_fluid_pipe*
-  - ostrum_fluid_pipe*
-  - space_helmet
-  - space_suit
-  - space_pants
-  - space_boots
-  - netherite_space_helmet
-  - netherite_space_suit
-  - netherite_space_pants
-  - netherite_space_boots
-  - jet_suit_helmet
-  - jet_suit
-  - jet_suit_pants
-  - jet_suit_boots
-  - aeronos_mushroom*
-  - strophar_mushroom*
-  - iron_sliding_door*
-  - steel_sliding_door*
-  - airlock*
-  - reforced_door*
-  - steel_door
-  - desh_sliding_door*
-  - ostrum_sliding_door*
-  - calorite_sliding_door*
-  - aeronos_ladder*
-  - aeronos_door
-  - strophar_ladder*
-  - strophar_door
-  - glacian_door
+- ['Dustrial Decor](https://www.curseforge.com/minecraft/mc-mods/dustrial-decor)
 
-- Fixed to ensure consistency with other models
-  - tier_1_rocket
-  - tier_2_rocket
-  - tier_3_rocket
-  - tier_4_rocket
-  - tier_1_rover
-  - launch_pad
-  - etrionic_blast_furnace
-  - solar_panel
-  - energizer
-  - cryo_freezer
-  - white_flag
-  - orange_flag
-  - magenta_flag
-  - light_blue_flag
-  - yellow_flag
-  - lime_flag
-  - pink_flag
-  - gray_flag
-  - light_gray_flag
-  - cyan_flag
-  - purple_flag
-  - blue_flag
-  - brown_flag
-  - green_flag
-  - red_flag
-  - black_flag
-  - earth_globe
-  - moon_globe
-  - mars_globe
-  - mercury_globe
-  - venus_globe
-  - glacio_globe
-  - radio
+- [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
+
+- [Immersive Weathering](https://modrinth.com/mod/immersive-weathering)
+
+- [Quark](https://modrinth.com/mod/quark)
+
+- [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
+
+- [Supplementaries](https://modrinth.com/mod/supplementaries)
+
+- [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
+
+- [Twigs](https://modrinth.com/mod/twigs)
+
+- [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)
+
+- [Vertical Slabs Compat](https://modrinth.com/mod/vertical-slabs-compat)
+
+- [Wilder Wild](https://modrinth.com/mod/wilder-wild)
 
 ## **1.8.1 (2024-06-15)**
 

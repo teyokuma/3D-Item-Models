@@ -1,0 +1,6 @@
+{
+  "parent": "item/iron_bars",
+  "textures": {
+    "iron_bars": "immersive_weathering:block/exposed_iron_bars"
+  }
+}
