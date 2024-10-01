@@ -1,11 +1,22 @@
 # Changelog
 
-## **1.9.0 (2024-00-00)**
+## **2.0.0 (2024-00-00)**
 
 ### **pack.mcmeta**
 
 - Updated to use overlay directories to support multiple versions
 - Changed pack_format to 15 (1.20 or later) because some models are not displayed correctly
+
+### **Added item models**
+
+- Added item models to be added in version 1.22
+  - pale_hanging_moss
+  - pale_oak_boat
+  - pale_oak_chest_boat
+  - pale_oak_door
+  - pale_oak_hanging_sign
+  - pale_poak_sapling
+  - pale_oak_sign
 
 ### **Updated item models**
 
@@ -26,6 +37,13 @@
   - iron_bars
 
 - Fixed to reference to the parent model of the block
+  - skeleton_skull
+  - wither_skeleton_skull
+  - player_head
+  - zombie_head
+  - creeper_head
+  - piglin_head
+  - dragon_head
   - cake
 
 ### 23w31a ~
