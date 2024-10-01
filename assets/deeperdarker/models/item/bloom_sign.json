@@ -1,6 +1,6 @@
 {
   "parent": "item/templates/sign",
   "textures": {
-    "all": "entity/signs/bloom"
+    "all": "deeperdarker:entity/signs/bloom"
   }
 }

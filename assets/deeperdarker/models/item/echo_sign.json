@@ -1,6 +1,6 @@
 {
   "parent": "item/templates/sign",
   "textures": {
-    "all": "entity/signs/echo"
+    "all": "deeperdarker:entity/signs/echo"
   }
 }

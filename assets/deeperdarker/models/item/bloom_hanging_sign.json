@@ -1,6 +1,6 @@
 {
   "parent": "item/templates/hanging_sign",
   "textures": {
-    "all": "entity/signs/hanging/bloom"
+    "all": "deeperdarker:entity/signs/hanging/bloom"
   }
 }
