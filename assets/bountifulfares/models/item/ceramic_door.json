@@ -1,0 +1,1 @@
+{  "parent": "item/templates/door",  "textures": {    "top": "bountifulfares:block/ceramic_door_top",    "bottom": "bountifulfares:block/ceramic_door_bottom"  }}
