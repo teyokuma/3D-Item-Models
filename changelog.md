@@ -2,11 +2,6 @@
 
 ## **2.0.0 (2024-00-00)**
 
-### **pack.mcmeta**
-
-- Updated to use overlay directories to support multiple versions
-- Changed pack_format to 15 (1.20 or later) because some models are not displayed correctly
-
 ### **Added item models**
 
 - Added item models to be added in version 1.22
@@ -35,6 +30,8 @@
   - furnace_minecart
   - tnt_minecart
   - iron_bars
+  - short_grass
+  - fern
 
 - Fixed to reference to the parent model of the block
   - skeleton_skull
@@ -137,6 +134,15 @@
 - [Vertical Slabs Compat](https://modrinth.com/mod/vertical-slabs-compat)
 
 - [Wilder Wild](https://modrinth.com/mod/wilder-wild)
+
+### **Technical changes**
+
+- pack.mcmeta
+  - Updated to use overlay directories to support multiple versions
+  - Changed pack_format to 15 (1.20 or later) because some models are not displayed correctly
+
+- pack.png
+  - Changed contrast
 
 ## **1.8.1 (2024-06-15)**
 

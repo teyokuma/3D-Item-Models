@@ -1,6 +1,6 @@
 {
   "parent": "item/templates/cross",
   "textures": {
-    "cross": "block/amethyst_cluster"
+    "cross": "biomesoplenty:block/tiny_cactus"
   }
 }

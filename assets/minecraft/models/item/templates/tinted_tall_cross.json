@@ -1,5 +1,6 @@
 {
 	"parent": "item/templates/tall_cross",
+	"ambientocclusion": false,
 	"elements": [
 		{
 			"from": [0.8, 0, 8],
