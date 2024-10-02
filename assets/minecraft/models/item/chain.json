@@ -2,7 +2,8 @@
     "parent": "item/templates/cross",
 	"textures": {
 		"particle": "block/chain",
-		"all": "block/chain"
+		"all": "block/chain",
+		"layer0": "item/chain"
 	},
 	"elements": [
 		{

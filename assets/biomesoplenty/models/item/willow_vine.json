@@ -1,5 +1,5 @@
-{
-  "parent": "ad_astra:block/strophar_ladder",
+{   
+    "parent": "biomesoplenty:block/willow_vine_1",
     "gui_light": "front",
     "display": {
         "gui": {
@@ -34,3 +34,4 @@
         }
     }
 }
+

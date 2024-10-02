@@ -44,6 +44,7 @@
   - creeper_head
   - piglin_head
   - dragon_head
+  - glow_lichen
   - cake
 
 ### 23w31a ~
