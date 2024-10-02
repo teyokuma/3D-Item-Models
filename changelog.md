@@ -1,6 +1,48 @@
 # Changelog
 
-## **2.0.0 (2024-00-00)**
+## **2.0 (2024-00-00)**
+
+### **Mod compatibility**
+
+### *Most mod compatible support was provided by @willowisp2002. Thank you very much!*
+
+- [Ad Astra](https://modrinth.com/mod/ad-astra)
+
+- [Architect's Palette](https://modrinth.com/mod/architects-palette)
+
+- [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)
+
+- [Bountiful Fares](https://modrinth.com/mod/bountiful-fares)
+
+- [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
+
+- [Create](https://modrinth.com/mod/create)
+
+- [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
+
+- [Deeper and Darker](https://modrinth.com/mod/deeperdarker)
+
+- ['Dustrial Decor](https://www.curseforge.com/minecraft/mc-mods/dustrial-decor)
+
+- [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
+
+- [Immersive Weathering](https://modrinth.com/mod/immersive-weathering)
+
+- [Quark](https://modrinth.com/mod/quark)
+
+- [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
+
+- [Supplementaries](https://modrinth.com/mod/supplementaries)
+
+- [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
+
+- [Twigs](https://modrinth.com/mod/twigs)
+
+- [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)
+
+- [Vertical Slabs Compat](https://modrinth.com/mod/vertical-slabs-compat)
+
+- [Wilder Wild](https://modrinth.com/mod/wilder-wild)
 
 ### **Added item models**
 
@@ -32,6 +74,23 @@
   - iron_bars
   - short_grass
   - fern
+  - cake
+  - white_banner
+  - orange_banner
+  - magenta_banner
+  - light_blue_banner
+  - yellow_banner
+  - lime_banner
+  - pink_banner
+  - gray_banner
+  - light_gray_banner
+  - cyan_banner
+  - purple_banner
+  - blue_banner
+  - brown_banner
+  - green_banner
+  - red_banner
+  - black_banner
 
 - Fixed to reference to the parent model of the block
   - skeleton_skull
@@ -92,48 +151,6 @@
   - golden_horse_armor
   - diamond_horse_armor
   - elytra
-
-### **Mod compatibility**
-
-### *Most mod compatible support was provided by @willowisp2002. Thank you very much!*
-
-- [Ad Astra](https://modrinth.com/mod/ad-astra)
-
-- [Architect's Palette](https://modrinth.com/mod/architects-palette)
-
-- [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)
-
-- [Bountiful Fares](https://modrinth.com/mod/bountiful-fares)
-
-- [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
-
-- [Create](https://modrinth.com/mod/create)
-
-- [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
-
-- [Deeper and Darker](https://modrinth.com/mod/deeperdarker)
-
-- ['Dustrial Decor](https://www.curseforge.com/minecraft/mc-mods/dustrial-decor)
-
-- [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
-
-- [Immersive Weathering](https://modrinth.com/mod/immersive-weathering)
-
-- [Quark](https://modrinth.com/mod/quark)
-
-- [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
-
-- [Supplementaries](https://modrinth.com/mod/supplementaries)
-
-- [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
-
-- [Twigs](https://modrinth.com/mod/twigs)
-
-- [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)
-
-- [Vertical Slabs Compat](https://modrinth.com/mod/vertical-slabs-compat)
-
-- [Wilder Wild](https://modrinth.com/mod/wilder-wild)
 
 ### **Technical changes**
 

@@ -1,37 +1,9 @@
 {
-  "parent": "bountifulfares:block/wild_maize",
-  "ambientocclusion": false,
-	"gui_light": "front",
-    "display": {
-        "gui": {
-			      "rotation": [30, 90, 0],
-            "translation": [0, 0, 0],
-		      	"scale": [0.75, 0.75, 0.75]
-        },
-        "ground": {
-            "rotation": [0, 0, 0],
-            "translation": [0, 3, 0],
-            "scale":[0.25, 0.25, 0.25]
-        },
-        "fixed": {
-            "rotation": [0, 0, 0],
-            "translation": [0, 0, 1],
-            "scale":[0.75, 0.75, 0.75]
-        },
-        "thirdperson_righthand": {
-	      		"rotation": [75, 0, 0],
-	      		"translation": [0, 2.5, 2],
-	      		"scale": [0.375, 0.375, 0.375]
-        },
-        "firstperson_righthand": {
-            "rotation": [0, 135, 0],
-            "translation": [0, 2.5, 0],
-            "scale": [0.4, 0.4, 0.4]
-        },
-        "head": {
-            "rotation": [0, 0, 0],
-		      	"translation": [0, 15, 0],
-            "scale": [1, 1, 1]
-        }
+    "parent": "bountifulfares:item/templates/tintable_cross_with_overlay",
+	"textures": {
+		"top_overlay": "bountifulfares:block/wild_maize_top",
+		"bottom_overlay": "bountifulfares:block/wild_maize_bottom",
+		"top": "bountifulfares:block/wild_maize_top_tint_tint",
+		"bottom": "bountifulfares:block/wild_maize_bottom_tint_tint"
     }
-}
+  }

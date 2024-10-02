@@ -1,5 +1,5 @@
 {
-  "parent": "item/templates/cross",
+  "parent": "item/amethyst_bud",
   "textures": {
     "cross": "biomesoplenty:block/pus_bubble"
   }

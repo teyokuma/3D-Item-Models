@@ -72,11 +72,25 @@
         {
             "type": "paletted_permutations",
             "textures": [
-                "block/pink_petals_stem"
+                "block/pink_petals_stem",
+                "bountifulfares:block/chamomile_flowers_stem",
+                "biomesoplenty:block/white_petals_stem",
+                "biomesoplenty:block/wildflower_stem"
             ],
-            "palette_key": "colormap/color_palettes/tint_palette",
+            "palette_key": "colormap/color_palettes/stem_palette",
             "permutations": {
-                "tint": "colormap/color_palettes/grass"
+                "tint": "colormap/color_palettes/stem"
+            }
+        },
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "bountifulfares:block/wild_maize_top_tint",
+                "bountifulfares:block/wild_maize_bottom_tint"
+            ],
+            "palette_key": "bountifulfares:colormap/color_palettes/tint_palette",
+            "permutations": {
+                "tint": "bountifulfares:colormap/color_palettes/tint"
             }
         }
     ]

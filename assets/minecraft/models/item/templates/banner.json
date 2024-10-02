@@ -1,6 +1,6 @@
 {
     "parent": "builtin/entity",
-    "gui_light": "side",
+	"gui_light": "front",
     "textures": {
         "particle": "block/oak_planks"
     },

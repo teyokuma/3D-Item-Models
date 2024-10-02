@@ -1,0 +1,7 @@
+{
+  "parent": "deeperdarker:item/templates/warden_helmet",
+  "textures": {
+    "all": "minecraft:models/armor/warden_layer_1",
+    "horn": "deeperdarker:models/armor/warden_horns"
+  }
+}
