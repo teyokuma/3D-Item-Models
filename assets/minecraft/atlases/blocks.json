@@ -88,9 +88,49 @@
                 "bountifulfares:block/wild_maize_top_tint",
                 "bountifulfares:block/wild_maize_bottom_tint"
             ],
-            "palette_key": "bountifulfares:colormap/color_palettes/tint_palette",
+            "palette_key": "bountifulfares:colormap/color_palettes/wild_maize_palette",
             "permutations": {
-                "tint": "bountifulfares:colormap/color_palettes/tint"
+                "tint": "bountifulfares:colormap/color_palettes/wild_maize"
+            }
+        },
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "bountifulfares:block/wild_passion_fruit_vine_tint"
+            ],
+            "palette_key": "bountifulfares:colormap/color_palettes/wild_passion_fruit_vine_palette",
+            "permutations": {
+                "tint": "bountifulfares:colormap/color_palettes/wild_passion_fruit_vine"
+            }
+        },
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "bountifulfares:block/wild_elderberry_vine_tint"
+            ],
+            "palette_key": "bountifulfares:colormap/color_palettes/wild_elderberry_vine_palette",
+            "permutations": {
+                "tint": "bountifulfares:colormap/color_palettes/wild_elderberry_vine"
+            }
+        },
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "block/lily_pad"
+            ],
+            "palette_key": "colormap/color_palettes/lily_pad_palette",
+            "permutations": {
+                "tint": "colormap/color_palettes/lily_pad"
+            }
+        },
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "wilderwild:block/lily_pad_root"
+            ],
+            "palette_key": "wilderwild:colormap/color_palettes/lily_pad_root_palette",
+            "permutations": {
+                "tint": "wilderwild:colormap/color_palettes/lily_pad_root"
             }
         }
     ]

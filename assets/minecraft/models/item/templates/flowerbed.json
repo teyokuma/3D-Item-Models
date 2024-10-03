@@ -1,5 +1,6 @@
 {
 	"parent": "block/thin_block",
+	"ambientocclusion": false,
 	"textures": {
 		"particle": "#flowerbed"
 	},

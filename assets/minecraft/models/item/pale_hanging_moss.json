@@ -1,7 +1,7 @@
 {
     "parent": "item/templates/cross",
     "textures": {
-      "cross": "block/pale_hanging_moss"
+      "cross": "block/pale_hanging_moss_tip"
     },
     "display": {
       "thirdperson_righthand": {

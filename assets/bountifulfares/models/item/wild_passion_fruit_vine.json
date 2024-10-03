@@ -1,5 +1,8 @@
 {   
     "parent": "bountifulfares:block/wild_passion_fruit_vine",
+    "textures": {
+		"tint": "bountifulfares:block/wild_passion_fruit_vine_tint_tint"
+    },
     "gui_light": "front",
     "display": {
         "gui": {

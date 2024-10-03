@@ -1,5 +1,9 @@
 {   
     "parent": "wilderwild:block/flowering_lily_pad",
+    "textures": {
+        "root": "wilderwild:block/lily_pad_root_tint",
+		"pad": "block/lily_pad_tint"
+	},
     "display": {
         "gui": {
             "rotation": [30, 135, 0],
