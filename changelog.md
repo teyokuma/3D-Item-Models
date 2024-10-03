@@ -1,10 +1,12 @@
 # Changelog
 
-## **2.0 (2024-00-00)**
+## **[2.0] - 2024-00-00**
+
+This update includes support for mod compatibility, the addition of packs that can disable some features, and fixes for issues such as models not displaying correctly in some versions.
 
 ### **Mod compatibility**
 
-### *Most mod compatible support was provided by @willowisp2002. Thank you very much!*
+*Most mod compatible support was provided by **@willowisp2002**. Thank you very much!*
 
 - [Ad Astra](https://modrinth.com/mod/ad-astra)
 
@@ -224,7 +226,7 @@
 - Corrected file names based on updates
   - short_grass
 
-## **1.7.0 (2023-06-07)**
+## **[1.7.0] - 2023-06-07**
 
 - Added Pitcher Plant
 - Added Sniffer Egg
@@ -243,7 +245,7 @@
 - Updated pack.png
 - Updated pack.mcmeta
 
-## **1.6.2 (2023-02-22)**
+## **[1.6.2] - 2023-02-22**
 
 - Added Cherry Door
 - Added Cherry Sign
@@ -264,7 +266,7 @@
 - Fixed Decorated Pot
 - Fixed pack.mcmeta
 
-## **1.6.1 / 1.6.1.1 (2023-02-01)**
+## **[1.6.1] / [1.6.1.1] - 2023-02-01**
 
 - Added Leather Armor Trims
 - Fixed Magenta Candle
@@ -275,7 +277,7 @@
 - Unnecessary files deleted
 - Trim texture in same material as Armor
 
-## **1.6.0 (2023-01-25)**
+## **[1.6.0] - 2023-01-25**
 
 - Added Leather Cap
 - Added Leather Tunic
@@ -297,7 +299,7 @@
 - Updated pack.mcmeta
 - Fixed Atlases files
 
-## **1.5.0 (2022-12-07)**
+## **[1.5.0] - 2022-12-07**
 
 - Added Bamboo Door
 - Added Bamboo Sign
@@ -326,7 +328,7 @@
 - Updated pack.mcmeta
 - Removed Unused files
 
-## **1.5.0b2 (2022-11-17)**
+## **[1.5.0b2] - 2022-11-17**
 
 - Fixed Jigsaw Block
 - Fixed Brewing Stand
@@ -335,7 +337,7 @@
 - Fixed Boat with Chests
 - Updated pack.mcmeta
 
-## **1.4.0 / 1.5.0b1 (2022-11-03)**
+## **[1.4.0] / [1.5.0b1] - 2022-11-03**
 
 - Added build-in textures (Custom textures disabled)
 - *Starting with Snapshot 22w42a, this change was made because textures for custom model models can no longer be loaded from sources other than textures/block and textures/item*
@@ -360,7 +362,7 @@
 - Updated pack.png
 - Updated pack.mcmeta
 
-## **1.3.0 (2022-06-07)**
+## **[1.3.0] -2022-06-07**
 
 - Added Horse Armors except Leather Horse Armor (experimental)
 - Added Mangrove Propagule
@@ -384,14 +386,14 @@
 - Fixed Helmets
 - Fixed Elytra
 
-## **1.2.1 (2022-02-23)**
+## **[1.2.1] -2022-02-23**
 
 - Added Sculk Vein
 - Fixed Enchanting Table
 - Fixed Lectern
 - Fixed Model UVs
 
-## **1.2 (2021-12-22)**
+## **[1.2] -2021-12-22**
 
 - Added Enchanting Table
 - Fixed Torches
@@ -403,7 +405,7 @@
 - Removed Painting
 - Update pack.png
 
-## **1.1 (2021-07-26)**
+## **[1.1] - 2021-07-26**
 
 - Fixed Boats
 - Fixed Lanterns
@@ -411,3 +413,7 @@
 - Fixed Tripwire Hook
 - Fixed Turtle Egg
 - Update pack.png
+
+## **[1.0] - 2021-07-24**
+
+- Released

@@ -1,6 +1,6 @@
 {
   "parent": "item/iron_bars",
   "textures": {
-    "iron_bars": "immersive_weathering:block/rusted_iron_bars"
+    "edge": "immersive_weathering:block/rusted_iron_bars"
   }
 }

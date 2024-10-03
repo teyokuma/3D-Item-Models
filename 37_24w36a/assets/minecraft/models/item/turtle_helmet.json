@@ -1,7 +1,7 @@
 {
   "parent": "item/templates/helmet",
   "textures": {
-    "all": "entity/equipment/humanoid/turtle_scute_scute"
+    "all": "entity/equipment/humanoid/turtle_scute"
   },
     "overrides": [
       {
