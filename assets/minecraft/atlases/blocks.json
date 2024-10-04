@@ -26,6 +26,11 @@
             "prefix": "colormap/"         
         },
         {
+            "type": "directory",
+            "source": "model",
+            "prefix": "model/"         
+        },
+        {
             "type": "paletted_permutations",
             "textures": [
                 "trims/models/armor/coast",

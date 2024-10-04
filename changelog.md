@@ -1,5 +1,7 @@
 # Changelog
 
+<img src="https://github.com/user-attachments/assets/9528d2d7-49f3-4adb-9d5d-13a91917146f" width="1024">
+
 ## **[2.0] - 2024-00-00**
 
 This update includes support for mod compatibility, the addition of packs that can disable some features, and fixes for issues such as models not displaying correctly in some versions.
@@ -9,41 +11,24 @@ This update includes support for mod compatibility, the addition of packs that c
 *Most mod compatible support was provided by **@willowisp2002**. Thank you very much!*
 
 - [Ad Astra](https://modrinth.com/mod/ad-astra)
-
-- [Architect's Palette](https://modrinth.com/mod/architects-palette)
-
-- [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)
-
+- [Architect&#39;s Palette](https://modrinth.com/mod/architects-palette)
+- [Biomes O&#39; Plenty](https://modrinth.com/mod/biomes-o-plenty)
 - [Bountiful Fares](https://modrinth.com/mod/bountiful-fares)
-
 - [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
-
 - [Create](https://modrinth.com/mod/create)
-
-- [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
-
+- [Create Crafts &amp; Additions](https://modrinth.com/mod/createaddition)
 - [Deeper and Darker](https://modrinth.com/mod/deeperdarker)
-
-- ['Dustrial Decor](https://www.curseforge.com/minecraft/mc-mods/dustrial-decor)
-
-- [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
-
+- [MmmMmmMmmMmm](https://modrinth.com/mod/mmmmmmmmmmmm)
+- [&#39;Dustrial Decor](https://www.curseforge.com/minecraft/mc-mods/dustrial-decor)
+- [Farmer&#39;s Delight](https://modrinth.com/mod/farmers-delight)
 - [Immersive Weathering](https://modrinth.com/mod/immersive-weathering)
-
 - [Quark](https://modrinth.com/mod/quark)
-
-- [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
-
+- [Create: Steam &#39;n&#39; Rails](https://modrinth.com/mod/create-steam-n-rails)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
-
 - [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
-
 - [Twigs](https://modrinth.com/mod/twigs)
-
 - [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)
-
 - [Vertical Slabs Compat](https://modrinth.com/mod/vertical-slabs-compat)
-
 - [Wilder Wild](https://modrinth.com/mod/wilder-wild)
 
 ### **Added item models**
@@ -60,6 +45,7 @@ This update includes support for mod compatibility, the addition of packs that c
 ### **Updated item models**
 
 - Updated model display
+
   - lantern
   - soul_lantern
   - torch
@@ -93,8 +79,8 @@ This update includes support for mod compatibility, the addition of packs that c
   - green_banner
   - red_banner
   - black_banner
-
 - Fixed to reference to the parent model of the block
+
   - skeleton_skull
   - wither_skeleton_skull
   - player_head
@@ -157,17 +143,18 @@ This update includes support for mod compatibility, the addition of packs that c
 ### **Technical changes**
 
 - pack.mcmeta
+
   - Updated to use overlay directories to support multiple versions
   - Changed pack_format to 15 (1.20 or later) because some models are not displayed correctly
-
 - pack.png
+
   - Changed contrast
 
-## **1.8.1 (2024-06-15)**
+## **[1.8.1] - 2024-06-15**
 
 - Update pack.mcmeta
 
-## **1.8.0 (2024-05-21)**
+## **[1.8.0] - 2024-05-21**
 
 - Update pack.png
 - Update pack.mcmeta
@@ -186,6 +173,7 @@ This update includes support for mod compatibility, the addition of packs that c
 ### **Updated item models**
 
 - Models with textures on both front and back sides are now correctly displayed
+
   - horse_armor
   - saddle
   - elytra
@@ -195,8 +183,8 @@ This update includes support for mod compatibility, the addition of packs that c
   - helmet
   - chestplate
   - boots
-
 - Fixed to reference to the parent model of the block
+
   - torch
   - lantern
   - candle
@@ -222,8 +210,8 @@ This update includes support for mod compatibility, the addition of packs that c
   - chest
   - blast_furnace
   - stairs
-
 - Corrected file names based on updates
+
   - short_grass
 
 ## **[1.7.0] - 2023-06-07**
