@@ -2,6 +2,8 @@
 
 <img src="https://github.com/user-attachments/assets/9528d2d7-49f3-4adb-9d5d-13a91917146f" width="1024">
 
+***3D models for 2D sprite items!***
+
 ## **[2.0] - 2024-00-00**
 
 This update includes support for mod compatibility, the addition of packs that can disable some features, and fixes for issues such as models not displaying correctly in some versions.
@@ -13,6 +15,7 @@ This update includes support for mod compatibility, the addition of packs that c
 - [Ad Astra](https://modrinth.com/mod/ad-astra)
 - [Architect&#39;s Palette](https://modrinth.com/mod/architects-palette)
 - [Biomes O&#39; Plenty](https://modrinth.com/mod/biomes-o-plenty)
+- [Boatload](https://modrinth.com/mod/boatload)
 - [Bountiful Fares](https://modrinth.com/mod/bountiful-fares)
 - [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
 - [Create](https://modrinth.com/mod/create)

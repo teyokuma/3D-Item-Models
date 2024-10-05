@@ -1,9 +1,5 @@
-{
-    "parent": "block/chain",
-	"textures": {
-		"particle": "#all",
-		"all": "block/chain"
-	},
+{   
+    "parent": "dustrial_decor:block/hook",
     "ambientocclusion": false,
 	"gui_light": "front",
     "display": {
