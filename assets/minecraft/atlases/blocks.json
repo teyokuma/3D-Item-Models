@@ -31,6 +31,11 @@
             "prefix": "model/"         
         },
         {
+            "type": "directory",
+            "source": "misc",
+            "prefix": "misc/"         
+        },
+        {
             "type": "paletted_permutations",
             "textures": [
                 "trims/models/armor/coast",

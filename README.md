@@ -58,6 +58,7 @@ It may not be fully supported. More mods will be supported in the future.
 - [Immersive Weathering](https://modrinth.com/mod/immersive-weathering)
 - [Quark](https://modrinth.com/mod/quark)
 - [Create: Steam &#39;n&#39; Rails](https://modrinth.com/mod/create-steam-n-rails)
+- [Realistic Torches](https://modrinth.com/mod/realistic-torches)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
 - [Twigs](https://modrinth.com/mod/twigs)

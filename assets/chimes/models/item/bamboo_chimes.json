@@ -7,9 +7,9 @@
 	"elements": [
 		{
 			"name": "BamMedBoneLo",
-			"from": [10.5, 1, 5.5],
-			"to": [13.5, 8, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [12, -6, 7]},
+			"from": [9, 1, 9],
+			"to": [12, 8, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.5, -6, 5.5]},
 			"faces": {
 				"north": {"uv": [3, 10.25, 3.75, 12], "texture": "#0"},
 				"east": {"uv": [2.25, 10.25, 3, 12], "texture": "#0"},
@@ -21,9 +21,9 @@
 		},
 		{
 			"name": "CarvSmaBoneUp",
-			"from": [2.5, 12, 5.5],
-			"to": [5.5, 17, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, -6, 7]},
+			"from": [9, 12, 4],
+			"to": [12, 17, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.5, -6, 10.5]},
 			"faces": {
 				"north": {"uv": [0.75, 3.75, 1.5, 5], "texture": "#0"},
 				"east": {"uv": [0, 3.75, 0.75, 5], "texture": "#0"},
@@ -48,10 +48,24 @@
 			}
 		},
 		{
+			"name": "TopperBaseBone",
+			"from": [7, 20, 7],
+			"to": [9, 24, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2, 8]},
+			"faces": {
+				"north": {"uv": [0.5, 0.5, 1, 1.5], "texture": "#0"},
+				"east": {"uv": [0, 0.5, 0.5, 1.5], "texture": "#0"},
+				"south": {"uv": [1.5, 0.5, 2, 1.5], "texture": "#0"},
+				"west": {"uv": [1, 0.5, 1.5, 1.5], "texture": "#0"},
+				"up": {"uv": [1, 0.5, 0.5, 0], "texture": "#0"},
+				"down": {"uv": [1.5, 0, 1, 0.5], "texture": "#0"}
+			}
+		},
+		{
 			"name": "BamMedBoneUp",
-			"from": [10.5, 8, 5.5],
-			"to": [13.5, 17, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [12, -6, 7]},
+			"from": [9, 8, 9],
+			"to": [12, 17, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.5, -6, 5.5]},
 			"faces": {
 				"north": {"uv": [3, 12.75, 3.75, 15], "texture": "#0"},
 				"east": {"uv": [2.25, 12.75, 3, 15], "texture": "#0"},
@@ -63,9 +77,9 @@
 		},
 		{
 			"name": "BamBigBoneUp",
-			"from": [2.5, 3, 5.5],
-			"to": [5.5, 12, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, -11, 7]},
+			"from": [9, 3, 4],
+			"to": [12, 12, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.5, -11, 10.5]},
 			"faces": {
 				"north": {"uv": [6.75, 9.75, 7.5, 12], "texture": "#0"},
 				"east": {"uv": [6, 9.75, 6.75, 12], "texture": "#0"},
@@ -77,9 +91,9 @@
 		},
 		{
 			"name": "CarvBigBoneUp",
-			"from": [6.5, 8, 2.5],
-			"to": [9.5, 17, 5.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, -6, 4]},
+			"from": [4, 8, 9],
+			"to": [7, 17, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.5, -6, 5.5]},
 			"faces": {
 				"north": {"uv": [6.75, 6.75, 7.5, 9], "texture": "#0"},
 				"east": {"uv": [6, 6.75, 6.75, 9], "texture": "#0"},
@@ -91,23 +105,19 @@
 		},
 		{
 			"name": "String2_r1",
-			"from": [8, 17, 3.5],
-			"to": [8, 18, 4.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, -6, 4]},
+			"from": [5, 17, 5.5],
+			"to": [6, 18, 5.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [5.5, -6, 5.5]},
 			"faces": {
-				"north": {"uv": [8.5, 0.25, 8.5, 0.5], "texture": "#0"},
-				"east": {"uv": [8.25, 0.25, 8.5, 0.5], "texture": "#0"},
-				"south": {"uv": [8.75, 0.25, 8.75, 0.5], "texture": "#0"},
-				"west": {"uv": [8.5, 0.25, 8.75, 0.5], "texture": "#0"},
-				"up": {"uv": [8.5, 0.25, 8.5, 0], "texture": "#0"},
-				"down": {"uv": [8.5, 0, 8.5, 0.25], "texture": "#0"}
+				"north": {"uv": [8.5, 0.25, 8.75, 0.5], "texture": "#0"},
+				"south": {"uv": [8.25, 0.25, 8.5, 0.5], "texture": "#0"}
 			}
 		},
 		{
 			"name": "BamSmaBoneUp",
-			"from": [5.5, 8, 10.5],
-			"to": [8.5, 17, 13.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7, -6, 12]},
+			"from": [4, 8, 4],
+			"to": [7, 17, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.5, -6, 10.5]},
 			"faces": {
 				"north": {"uv": [0.75, 7.75, 1.5, 10], "texture": "#0"},
 				"east": {"uv": [0, 7.75, 0.75, 10], "texture": "#0"},
@@ -119,23 +129,19 @@
 		},
 		{
 			"name": "String3_r1",
-			"from": [7, 17, 11.5],
-			"to": [7, 18, 12.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7, -6, 12]},
+			"from": [10, 17, 10.5],
+			"to": [11, 18, 10.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [10.5, -6, 10.5]},
 			"faces": {
-				"north": {"uv": [8.5, 0.25, 8.5, 0.5], "texture": "#0"},
-				"east": {"uv": [8.25, 0.25, 8.5, 0.5], "texture": "#0"},
-				"south": {"uv": [8.75, 0.25, 8.75, 0.5], "texture": "#0"},
-				"west": {"uv": [8.5, 0.25, 8.75, 0.5], "texture": "#0"},
-				"up": {"uv": [8.5, 0.25, 8.5, 0], "texture": "#0"},
-				"down": {"uv": [8.5, 0, 8.5, 0.25], "texture": "#0"}
+				"north": {"uv": [8.25, 0.25, 8.5, 0.5], "texture": "#0"},
+				"south": {"uv": [8.5, 0.25, 8.75, 0.5], "texture": "#0"}
 			}
 		},
 		{
 			"name": "BamLarBoneLo",
-			"from": [5.5, -3, 10.5],
-			"to": [8.5, 8, 13.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7, -6, 12]},
+			"from": [4, -3, 4],
+			"to": [7, 8, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.5, -6, 10.5]},
 			"faces": {
 				"north": {"uv": [3.75, 3.75, 4.5, 6.5], "texture": "#0"},
 				"east": {"uv": [3, 3.75, 3.75, 6.5], "texture": "#0"},
@@ -147,23 +153,19 @@
 		},
 		{
 			"name": "String4_r1",
-			"from": [12, 17, 6.5],
-			"to": [12, 18, 7.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [12, -6, 7]},
+			"from": [10.5, 17, 5],
+			"to": [10.5, 18, 6],
+			"rotation": {"angle": 45, "axis": "y", "origin": [10.5, -6, 5.5]},
 			"faces": {
-				"north": {"uv": [8.5, 0.25, 8.5, 0.5], "texture": "#0"},
 				"east": {"uv": [8.25, 0.25, 8.5, 0.5], "texture": "#0"},
-				"south": {"uv": [8.75, 0.25, 8.75, 0.5], "texture": "#0"},
-				"west": {"uv": [8.5, 0.25, 8.75, 0.5], "texture": "#0"},
-				"up": {"uv": [8.5, 0.25, 8.5, 0], "texture": "#0"},
-				"down": {"uv": [8.5, 0, 8.5, 0.25], "texture": "#0"}
+				"west": {"uv": [8.5, 0.25, 8.75, 0.5], "texture": "#0"}
 			}
 		},
 		{
 			"name": "BamBigBoneLo",
-			"from": [6.5, -1, 2.5],
-			"to": [9.5, 8, 5.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, -6, 4]},
+			"from": [4, -1, 9],
+			"to": [7, 8, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.5, -6, 5.5]},
 			"faces": {
 				"north": {"uv": [6.75, 6.75, 7.5, 9], "texture": "#0"},
 				"east": {"uv": [6, 6.75, 6.75, 9], "texture": "#0"},
@@ -175,16 +177,12 @@
 		},
 		{
 			"name": "String5_r1",
-			"from": [4, 17, 6.5],
-			"to": [4, 18, 7.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, -6, 7]},
+			"from": [5, 17, 10.5],
+			"to": [6, 18, 10.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [5.5, -6, 10.5]},
 			"faces": {
-				"north": {"uv": [8.5, 0.25, 8.5, 0.5], "texture": "#0"},
-				"east": {"uv": [8.25, 0.25, 8.5, 0.5], "texture": "#0"},
-				"south": {"uv": [8.75, 0.25, 8.75, 0.5], "texture": "#0"},
-				"west": {"uv": [8.5, 0.25, 8.75, 0.5], "texture": "#0"},
-				"up": {"uv": [8.5, 0.25, 8.5, 0], "texture": "#0"},
-				"down": {"uv": [8.5, 0, 8.5, 0.25], "texture": "#0"}
+				"north": {"uv": [8.5, 0.25, 8.75, 0.5], "texture": "#0"},
+				"south": {"uv": [8.25, 0.25, 8.5, 0.5], "texture": "#0"}
 			}
 		}
 	],
@@ -277,13 +275,13 @@
 			"name": "TopperBaseBone",
 			"origin": [8, 20, 8],
 			"color": 0,
-			"children": [2]
+			"children": [2, 3]
 		},
 		{
 			"name": "BamMedBoneUp",
 			"origin": [8, 23, 8],
 			"color": 0,
-			"children": [3]
+			"children": [4]
 		},
 		{
 			"name": "MedStringBone",
@@ -295,19 +293,19 @@
 			"name": "BamBigBoneUp",
 			"origin": [8, 23, 8],
 			"color": 0,
-			"children": [4]
+			"children": [5]
 		},
 		{
 			"name": "CarvBigBoneUp",
 			"origin": [8, 23, 8],
 			"color": 0,
-			"children": [5]
+			"children": [6]
 		},
 		{
 			"name": "String2_r1",
 			"origin": [8, 23.5, 8],
 			"color": 0,
-			"children": [6]
+			"children": [7]
 		},
 		{
 			"name": "BamBoneTopperLo",
@@ -331,7 +329,7 @@
 			"name": "BamSmaBoneUp",
 			"origin": [8, 23, 8],
 			"color": 0,
-			"children": [7]
+			"children": [8]
 		},
 		{
 			"name": "BambooUpper",
@@ -397,13 +395,13 @@
 			"name": "String3_r1",
 			"origin": [8, 23.5, 8],
 			"color": 0,
-			"children": [8]
+			"children": [9]
 		},
 		{
 			"name": "BamLarBoneLo",
 			"origin": [8, 23, 8],
 			"color": 0,
-			"children": [9]
+			"children": [10]
 		},
 		{
 			"name": "BamStringLarBoneUp",
@@ -469,7 +467,7 @@
 			"name": "String4_r1",
 			"origin": [8, 23.5, 8],
 			"color": 0,
-			"children": [10]
+			"children": [11]
 		},
 		{
 			"name": "CarvedLower",
@@ -487,7 +485,7 @@
 			"name": "BamBigBoneLo",
 			"origin": [8, 23, 8],
 			"color": 0,
-			"children": [11]
+			"children": [12]
 		},
 		{
 			"name": "BamStringBigBoneLo",
@@ -499,7 +497,7 @@
 			"name": "String5_r1",
 			"origin": [8, 23.5, 8],
 			"color": 0,
-			"children": [12]
+			"children": [13]
 		},
 		{
 			"name": "BamLarBoneUp",

@@ -1,7 +1,7 @@
 {
   "parent": "item/templates/glass_pane",
   "textures": {
-    "glass": "quark:block/indigo_corundum",
-    "side": "quark:block/indigo_corundum"
+    "pane": "quark:block/indigo_corundum",
+    "edge": "quark:block/indigo_corundum"
   }
 }

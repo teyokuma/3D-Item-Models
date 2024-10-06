@@ -27,6 +27,7 @@ This update includes support for mod compatibility, the addition of packs that c
 - [Immersive Weathering](https://modrinth.com/mod/immersive-weathering)
 - [Quark](https://modrinth.com/mod/quark)
 - [Create: Steam &#39;n&#39; Rails](https://modrinth.com/mod/create-steam-n-rails)
+- [Realistic Torches](https://modrinth.com/mod/realistic-torches)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
 - [Twigs](https://modrinth.com/mod/twigs)
@@ -55,6 +56,8 @@ This update includes support for mod compatibility, the addition of packs that c
   - redstone_torch
   - soul_torch
   - ladder
+  - item_frame
+  - glow_item_frame
   - turtle_egg
   - vine
   - minecart
@@ -82,6 +85,22 @@ This update includes support for mod compatibility, the addition of packs that c
   - green_banner
   - red_banner
   - black_banner
+  - white_bed
+  - orange_bed
+  - magenta_bed
+  - light_blue_bed
+  - yellow_bed
+  - lime_bed
+  - pink_bed
+  - gray_bed
+  - light_gray_bed
+  - cyan_bed
+  - purple_bed
+  - blue_bed
+  - brown_bed
+  - green_bed
+  - red_bed
+  - black_bed
 - Fixed to reference to the parent model of the block
 
   - skeleton_skull
