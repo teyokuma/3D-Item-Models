@@ -76,4 +76,4 @@ It may not be fully supported. More mods will be supported in the future.
 
 ## **🌟 Download**
 
-### [Planet Minecraft](https://www.planetminecraft.com/texture-pack/the-3d-item-models/) | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/teyokuma-3d-item-models) | [Modrinth](link) | [GitHub](https://github.com/teyokuma/3D-Item-Models)
+### [Planet Minecraft](https://www.planetminecraft.com/texture-pack/the-3d-item-models/) | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/teyokuma-3d-item-models) | [Modrinth](https://modrinth.com/project/3d-item-models) | [GitHub](https://github.com/teyokuma/3D-Item-Models)

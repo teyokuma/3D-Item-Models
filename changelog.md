@@ -4,7 +4,7 @@
 
 ***3D models for 2D sprite items!***
 
-## **[2.0] - 2024-00-00**
+## **[2.0] - 2024-10-07**
 
 This update includes support for mod compatibility, the addition of packs that can disable some features, and fixes for issues such as models not displaying correctly in some versions.
 
