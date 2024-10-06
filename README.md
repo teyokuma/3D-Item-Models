@@ -49,6 +49,7 @@ It may not be fully supported. More mods will be supported in the future.
 - [Boatload](https://modrinth.com/mod/boatload)
 - [Bountiful Fares](https://modrinth.com/mod/bountiful-fares)
 - [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
+- [Comforts](https://modrinth.com/mod/comforts/)
 - [Create](https://modrinth.com/mod/create)
 - [Create Crafts &amp; Additions](https://modrinth.com/mod/createaddition)
 - [Deeper and Darker](https://modrinth.com/mod/deeperdarker)
