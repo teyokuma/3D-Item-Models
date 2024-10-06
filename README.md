@@ -14,19 +14,6 @@ Here is an example of how the item model is changed.
 
 <img src="https://github.com/user-attachments/assets/04386540-6639-4dad-a839-62fbf4ff8a0b" width="512">
 
-## **⚙️ Add-On**
-
-Additional packs are available for those who find certain features unnecessary.
-
-<a href="https://github.com/teyokuma/3D-Item-Models-Addon-Disable-Flat"><img src="https://github.com/user-attachments/assets/80b6248d-f96b-41e8-a875-0039eb537686" width="128"></a> <a href="https://github.com/teyokuma/3D-Item-Models-Addon-Disable-Armor"><img src="https://github.com/user-attachments/assets/6c15f271-da08-4ce0-94c2-1eb0b7f78601" width="128"></a>
-
-- [Disable Flat](https://github.com/teyokuma/3D-Item-Models-Addon-Disable-Flat)
-
-  - This pack disables flat models such as grass, flowers, ladder and vine and reverts to the default display.
-- [Disable Armor](https://github.com/teyokuma/3D-Item-Models-Addon-Disable-Armor)
-
-  - This pack disables the models of armor, elytra, and other equipment and reverts to the default display.
-
 ## **🛠️ Installation**
 
 *Mods such as **Optifine**, **CIT**, etc. are **not required**.*
@@ -36,6 +23,19 @@ Additional packs are available for those who find certain features unnecessary.
 - Launch Minecraft
 - Open Options, Resource Packs…
 - Select and activate `3D-Item-Models-v**`
+
+## **⚙️ Add-On**
+
+Additional packs are available for those who find certain features unnecessary.
+
+<a href="https://github.com/teyokuma/3DIM-Disable-Flat/archive/refs/heads/latest.zip"><img src="https://github.com/user-attachments/assets/80b6248d-f96b-41e8-a875-0039eb537686" width="128"></a> <a href="https://github.com/teyokuma/3DIM-Disable-Armor/archive/refs/heads/latest.zip"><img src="https://github.com/user-attachments/assets/6c15f271-da08-4ce0-94c2-1eb0b7f78601" width="128"></a>
+
+- [Disable Flat](https://github.com/teyokuma/3DIM-Disable-Flat/archive/refs/heads/latest.zip)
+
+  - This pack disables flat models such as grass, flowers, ladder and vine and reverts to the default display.
+- [Disable Armor](https://github.com/teyokuma/3DIM-Disable-Armor/archive/refs/heads/latest.zip)
+
+  - This pack disables the models of armor, elytra, and other equipment and reverts to the default display.
 
 ## **🧩 Mod compatibility**
 
