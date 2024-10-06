@@ -8,7 +8,7 @@
 
 This update includes support for mod compatibility, the addition of packs that can disable some features, and fixes for issues such as models not displaying correctly in some versions.
 
-### **Mod compatibility**
+### **First mod compatibility**
 
 *Most mod compatible support was provided by **@willowisp2002**. Thank you very much!*
 
@@ -27,7 +27,7 @@ This update includes support for mod compatibility, the addition of packs that c
 - [Farmer&#39;s Delight](https://modrinth.com/mod/farmers-delight)
 - [Immersive Weathering](https://modrinth.com/mod/immersive-weathering)
 - [Quark](https://modrinth.com/mod/quark)
-- [Create: Steam &#39;n&#39; Rails](https://modrinth.com/mod/create-steam-n-rails)
+- [Create: Steam &#39;n&#39; Rails](https://modrinth.com/mod/create-steam-n-rails) *(incomplete)*
 - [Realistic Torches](https://modrinth.com/mod/realistic-torches)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
@@ -69,6 +69,7 @@ This update includes support for mod compatibility, the addition of packs that c
   - iron_bars
   - short_grass
   - fern
+  - glow_lichen
   - cake
   - white_banner
   - orange_banner

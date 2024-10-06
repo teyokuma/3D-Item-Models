@@ -58,7 +58,7 @@ It may not be fully supported. More mods will be supported in the future.
 - [Farmer&#39;s Delight](https://modrinth.com/mod/farmers-delight)
 - [Immersive Weathering](https://modrinth.com/mod/immersive-weathering)
 - [Quark](https://modrinth.com/mod/quark)
-- [Create: Steam &#39;n&#39; Rails](https://modrinth.com/mod/create-steam-n-rails)
+- [Create: Steam &#39;n&#39; Rails](https://modrinth.com/mod/create-steam-n-rails) *(incomplete)*
 - [Realistic Torches](https://modrinth.com/mod/realistic-torches)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
@@ -66,6 +66,13 @@ It may not be fully supported. More mods will be supported in the future.
 - [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)
 - [Vertical Slabs Compat](https://modrinth.com/mod/vertical-slabs-compat)
 - [Wilder Wild](https://modrinth.com/mod/wilder-wild)
+
+### Future compatibility plans
+
+- Blue Skies
+- Nature's Spirit
+- The Twilight Forest
+- Trailier Tales
 
 ## **🌟 Download**
 
