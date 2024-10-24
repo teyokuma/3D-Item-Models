@@ -1,0 +1,7 @@
+{
+  "parent": "item/templates/glass_pane",
+  "textures": {
+    "glass": "quark:block/black_corundum",
+    "side": "quark:block/black_corundum"
+  }
+}
