@@ -1,6 +1,0 @@
-{
-  "parent": "item/templates/chest_boat",
-  "textures": {
-    "chest_boat": "biomesoplenty:entity/chest_boat/willow"
-  }
-}

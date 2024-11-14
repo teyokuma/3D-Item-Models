@@ -1,6 +1,0 @@
-{
-  "parent": "item/templates/sign",
-  "textures": {
-    "all": "upgrade_aquatic:entity/signs/driftwood"
-  }
-}

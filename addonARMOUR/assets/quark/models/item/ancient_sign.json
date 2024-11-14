@@ -1,6 +1,0 @@
-{
-  "parent": "item/templates/sign",
-  "textures": {
-    "all": "quark:entity/signs/ancient"
-  }
-}

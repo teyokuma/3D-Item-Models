@@ -1,1 +1,0 @@
-{  "parent": "item/templates/door",  "textures": {    "top": "bountifulfares:block/hoary_door_top",    "bottom": "bountifulfares:block/hoary_door_bottom"  }}

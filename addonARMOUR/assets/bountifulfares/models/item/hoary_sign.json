@@ -1,6 +1,0 @@
-{
-  "parent": "item/templates/sign",
-  "textures": {
-    "all": "bountifulfares:entity/signs/hoary"
-  }
-}

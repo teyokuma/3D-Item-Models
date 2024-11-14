@@ -1,6 +1,0 @@
-{
-  "parent": "item/templates/sign",
-  "textures": {
-    "all": "farmersdelight:entity/signs/canvas_brown"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "item/templates/door",
-  "textures": {
-    "top": "wilderwild:block/baobab_door_top",
-    "bottom": "wilderwild:block/baobab_door_bottom"
-  }
-}
