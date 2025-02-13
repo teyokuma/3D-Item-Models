@@ -1,5 +1,6 @@
 {
   "parent": "item/templates/campfire",
+  "shade": "false",
   "textures": {
     "fire": "block/campfire_fire",
     "lit_log": "block/campfire_log_lit"

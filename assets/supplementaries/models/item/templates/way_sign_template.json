@@ -1,14 +1,16 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "supplementaries:block/bamboo_spikes",
+	"parent": "supplementaries:block/way_signs/template",
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [75, 45, 0],
-			"translation": [-2, 4.5, -0.5],
+			"translation": [0, 2.5, 2],
 			"scale": [0.375, 0.375, 0.375]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 135, 0],
+			"translation": [0, 2.5, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
@@ -17,14 +19,14 @@
 		},
 		"gui": {
 			"rotation": [30, 135, 0],
-			"translation": [-1, -1.25, 0],
-			"scale": [0.625, 0.625, 0.625]
+			"translation": [0, 3.25, 0],
+			"scale": [0.9375, 0.9375, 0.9375]
 		},
 		"head": {
-			"translation": [0, 0, -15]
+			"translation": [0, 14, 0]
 		},
 		"fixed": {
-			"translation": [0, 0, -6],
+			"translation": [0, 0, 1],
 			"scale": [0.75, 0.75, 0.75]
 		}
 	}
