@@ -83,6 +83,7 @@
             "type": "paletted_permutations",
             "textures": [
                 "block/pink_petals_stem",
+                "block/wildflowers_stem",
                 "bountifulfares:block/chamomile_flowers_stem",
                 "biomesoplenty:block/white_petals_stem",
                 "biomesoplenty:block/wildflower_stem"

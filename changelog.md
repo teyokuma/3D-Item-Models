@@ -4,6 +4,31 @@
 
 ***3D models for 2D sprite items!***
 
+## [2.1] - 2025-00-00
+
+This update includes additional item models that will be added in the new version, as well as bug fixes.
+
+### Added item models
+
+* Added item models added in the new version
+  * bush
+  * cactus_flower
+  * closed_eyeblossom
+  * firefly_bush
+  * leaf_litter
+  * open_eyeblossom
+  * short_dry_grass
+  * tall_dry_grass
+  * wildflowers
+
+### Updated item models
+
+* Fixed broken models in new versions
+  * trapped_chest
+  * banner
+  * wolf_armor
+  * saddle
+
 ## **[2.0] - 2024-10-07**
 
 This update includes support for mod compatibility, the addition of packs that can disable some features, and fixes for issues such as models not displaying correctly in some versions.
@@ -38,7 +63,7 @@ This update includes support for mod compatibility, the addition of packs that c
 
 ### **Added item models**
 
-- Added item models to be added in version 1.22
+- Added item models added in the new version
   - pale_hanging_moss
   - pale_oak_boat
   - pale_oak_chest_boat

@@ -1,0 +1,6 @@
+{
+  "parent": "item/templates/leaf_litter",
+  "textures": {
+    "texture": "minecraft:block/leaf_litter"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "pack": {
     "pack_format": 15,
-    "supported_formats": [ 7, 99 ],
+    "supported_formats": [ 7, 48 ],
     "description": "3D models for 2D sprite items\n§8by teyokuma"
   },
   "overlays": {
@@ -21,6 +21,14 @@
       {
         "formats": [ 37, 99 ],
         "directory": "37_24w36a"
+      },
+      {
+        "formats": [ 44, 99 ],
+        "directory": "44_24w45a"
+      },
+      {
+        "formats": [ 48, 99 ],
+        "directory": "48_25w03a"
       }
     ]
   }
