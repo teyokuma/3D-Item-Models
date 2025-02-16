@@ -1,7 +1,7 @@
 {
 	"parent": "block/block",
 	"textures": {
-		"painting": "painting/kebab",
+		"painting": "painting/alban",
 		"particle": "painting/back",
 		"back": "painting/back"
 	},
@@ -12,17 +12,16 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#painting"},
-				"east": {"uv": [0, 0, 1, 16], "texture": "#back"},
+				"east": {"uv": [15, 0, 16, 16], "texture": "#back"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#back"},
 				"west": {"uv": [0, 0, 1, 16], "texture": "#back"},
 				"up": {"uv": [0, 0, 16, 1], "rotation": 180, "texture": "#back"},
-				"down": {"uv": [0, 0, 16, 1], "rotation": 180, "texture": "#back"}
+				"down": {"uv": [0, 15, 16, 16], "rotation": 180, "texture": "#back"}
 			}
 		}
 	],
 	"display": {
 		"head": {
-			"rotation": [0, 0, 0],
 			"translation": [0, 0, -8]
 		}
 	}
