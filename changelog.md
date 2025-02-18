@@ -6,28 +6,58 @@
 
 ## [2.1] - 2025-00-00
 
-This update includes additional item models that will be added in the new version, as well as bug fixes.
+This update includes additional item models that will be added in the new version, added variations of Painting and Armor Trim item models using property, and bug fixes.
 
 ### Added item models
 
-* Added item models added in the new version
-  * bush
-  * cactus_flower
-  * closed_eyeblossom
-  * firefly_bush
-  * leaf_litter
-  * open_eyeblossom
-  * short_dry_grass
-  * tall_dry_grass
-  * wildflowers
+- Added item models added in the new version
+  - bush
+  - cactus_flower
+  - closed_eyeblossom
+  - firefly_bush
+  - leaf_litter
+  - open_eyeblossom
+  - short_dry_grass
+  - tall_dry_grass
+  - wildflowers
 
 ### Updated item models
 
-* Fixed broken models in new versions
-  * trapped_chest
-  * banner
-  * wolf_armor
-  * saddle
+- Fixed broken models in new versions
+  - trapped_chest
+  - banner
+  - wolf_armor
+  - saddle
+  - heavy_core
+  - lectern
+
+- Variation added to item models (25w03a~) and added resin armor trim material
+  - painting
+  - leather_helmet
+  - leather_chestplate
+  - leather_leggings
+  - leather_boots
+  - chainmail_helmet
+  - chainmail_chestplate
+  - chainmail_leggings
+  - chainmail_boots
+  - iron_helmet
+  - iron_chestplate
+  - iron_leggings
+  - iron_boots
+  - golden_helmet
+  - golden_chestplate
+  - golden_leggings
+  - golden_boots
+  - diamond_helmet
+  - diamond_chestplate
+  - diamond_leggings
+  - diamond_boots
+  - netherite_helmet
+  - netherite_chestplate
+  - netherite_leggings
+  - netherite_boots
+  - turtle_helmet
 
 ## **[2.0] - 2024-10-07**
 
@@ -35,7 +65,7 @@ This update includes support for mod compatibility, the addition of packs that c
 
 ### **First mod compatibility**
 
-*Most mod compatible support was provided by **@willowisp2002**. Thank you very much!*
+*Most mod compatible support was provided by **@pictochats_**. Thank you very much!*
 
 - [Ad Astra](https://modrinth.com/mod/ad-astra)
 - [Architect&#39;s Palette](https://modrinth.com/mod/architects-palette)
@@ -128,8 +158,8 @@ This update includes support for mod compatibility, the addition of packs that c
   - green_bed
   - red_bed
   - black_bed
-- Fixed to reference to the parent model of the block
 
+- Fixed to reference to the parent model of the block
   - skeleton_skull
   - wither_skeleton_skull
   - player_head
@@ -195,6 +225,7 @@ This update includes support for mod compatibility, the addition of packs that c
 
   - Updated to use overlay directories to support multiple versions
   - Changed pack_format to 15 (1.20 or later) because some models are not displayed correctly
+- 
 - pack.png
 
   - Changed contrast
