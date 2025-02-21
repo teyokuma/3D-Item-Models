@@ -5,7 +5,7 @@
 ***3D models for 2D sprite items!***
 
 ## **❔ About**
----
+
 teyokuma's 3D Item Models is a resource pack for *Minecraft: Java Edition*. It also supports multiple mods.
 
 It is intended to add 3D models to 2D sprite items and to make items with all unique models consistent.
@@ -32,10 +32,10 @@ Visual variations have been added to some items. (25w03a / 1.21.5~)
 Mods such as **Optifine**, **CIT**, etc. are **NOT required**.
 
 1. Download the resourcepack
-1. Put the resource pack in `.minecraft/resourcepack`
-1. Launch Minecraft
-1. Open Options, Resource Packs…
-1. Select and activate `3D-Item-Models-v**`
+2. Put the resource pack in `.minecraft/resourcepack`
+3. Launch Minecraft
+4. Open Options, Resource Packs…
+5. Select and activate `3D-Item-Models-v**`
 
 ## **🧩 Mod compatibility**
 
