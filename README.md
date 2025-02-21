@@ -5,8 +5,11 @@
 ***3D models for 2D sprite items!***
 
 ## **❔ About**
+---
+teyokuma's 3D Item Models is a resource pack for *Minecraft: Java Edition*. It also supports multiple mods.
 
-teyokuma's 3D Item Models is a resource pack for Minecraft: Java Edition. It is intended to add 3D models to 2D sprite items and to make items with all unique models consistent. Models and textures are not added or changed and can be used in conjunction with other resource packs. It also supports multiple mods.
+It is intended to add 3D models to 2D sprite items and to make items with all unique models consistent.
+Models and textures are not added or changed and can be used in conjunction with other resource packs.
 
 ## **📸 Example**
 
@@ -14,28 +17,25 @@ Here is an example of how the item model is changed.
 
 <img src="https://github.com/user-attachments/assets/04386540-6639-4dad-a839-62fbf4ff8a0b" width="512">
 
-## **⚙️ Add-On**
+Visual variations have been added to some items. (25w03a / 1.21.5~)
 
-Additional packs are available for those who find certain features unnecessary.
+**🖼️ Paintings**
 
-<a href="https://github.com/teyokuma/3D-Item-Models-Addon-Disable-Flat"><img src="https://github.com/user-attachments/assets/80b6248d-f96b-41e8-a875-0039eb537686" width="128"></a> <a href="https://github.com/teyokuma/3D-Item-Models-Addon-Disable-Armor"><img src="https://github.com/user-attachments/assets/6c15f271-da08-4ce0-94c2-1eb0b7f78601" width="128"></a>
+<img src="https://github.com/user-attachments/assets/6c4dab57-c98a-4058-9555-923ac04eb4d7" width="512">
 
-- [Disable Flat](https://github.com/teyokuma/3D-Item-Models-Addon-Disable-Flat)
+**🛡️ Armor Trims**
 
-  - This pack disables flat models such as grass, flowers, ladder and vine and reverts to the default display.
-- [Disable Armor](https://github.com/teyokuma/3D-Item-Models-Addon-Disable-Armor)
-
-  - This pack disables the models of armor, elytra, and other equipment and reverts to the default display.
+<img src="https://github.com/user-attachments/assets/c117c9d1-f238-4711-9783-1ab627db5489" width="512">
 
 ## **🛠️ Installation**
 
-*Mods such as **Optifine**, **CIT**, etc. are **not required**.*
+Mods such as **Optifine**, **CIT**, etc. are **NOT required**.
 
-- Download the resourcepack
-- Put the resource pack in `.minecraft/resourcepack`
-- Launch Minecraft
-- Open Options, Resource Packs…
-- Select and activate `3D-Item-Models-v**`
+1. Download the resourcepack
+1. Put the resource pack in `.minecraft/resourcepack`
+1. Launch Minecraft
+1. Open Options, Resource Packs…
+1. Select and activate `3D-Item-Models-v**`
 
 ## **🧩 Mod compatibility**
 

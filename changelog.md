@@ -20,6 +20,9 @@ This update includes additional item models that will be added in the new versio
   - short_dry_grass
   - tall_dry_grass
   - wildflowers
+  - wind_charge
+- Re-added item models
+  - sugar_cane
 
 ### Updated item models
 
@@ -30,7 +33,6 @@ This update includes additional item models that will be added in the new versio
   - saddle
   - heavy_core
   - lectern
-
 - Variation added to item models (25w03a~) and added resin armor trim material
   - painting
   - leather_helmet
@@ -158,8 +160,8 @@ This update includes support for mod compatibility, the addition of packs that c
   - green_bed
   - red_bed
   - black_bed
-
 - Fixed to reference to the parent model of the block
+
   - skeleton_skull
   - wither_skeleton_skull
   - player_head
