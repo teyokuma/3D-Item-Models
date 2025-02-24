@@ -9,7 +9,7 @@
 			"name": "charge",
 			"from": [6, 6, 6],
 			"to": [10, 10, 10],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [1, 2, 2, 4], "texture": "#wind_charge"},
 				"east": {"uv": [0, 2, 1, 4], "texture": "#wind_charge"},
@@ -51,7 +51,7 @@
 			"name": "charge",
 			"from": [10, 6.002, 6.002],
 			"to": [6.004, 10.006, 10.006],
-			"rotation": {"angle": 0, "axis": "y", "origin": [19.5, 8, 8]},
+			"rotation": {"angle": -45, "axis": "y", "origin": [8.002, 8.004, 8.004]},
 			"faces": {
 				"north": {"uv": [2, 2, 1, 4], "texture": "#wind_charge"},
 				"east": {"uv": [3, 2, 2, 4], "texture": "#wind_charge"},
@@ -65,7 +65,7 @@
 			"name": "wind",
 			"from": [11, 6.002, 5.002],
 			"to": [5.004, 10.006, 11.006],
-			"rotation": {"angle": 0, "axis": "y", "origin": [14, 8, 8]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.002, 8.004, 8.004]},
 			"faces": {
 				"north": {"uv": [3, 7.5, 1.5, 9.5], "texture": "#wind_charge"},
 				"east": {"uv": [4.5, 7.5, 3, 9.5], "texture": "#wind_charge"},
@@ -79,7 +79,7 @@
 			"name": "wind",
 			"from": [12, 7.002, 4.002],
 			"to": [4.004, 9.006, 12.006],
-			"rotation": {"angle": 0, "axis": "y", "origin": [16, 8, 8]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.002, 8.004, 8.004]},
 			"faces": {
 				"north": {"uv": [7.75, 14, 5.75, 15], "texture": "#wind_charge"},
 				"east": {"uv": [9.75, 14, 7.75, 15], "texture": "#wind_charge"},
@@ -96,9 +96,10 @@
 			"translation": [0, 1, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
-		"gui": {
-			"rotation": [30, 135, 0],
-			"scale": [0.9375, 0.9375, 0.9375]
+        "gui": {
+            "rotation": [30, -45, 0],
+            "translation": [0, 0, 0],
+            "scale": [1, 1, 1]
 		}
 	},
 	"groups": [
