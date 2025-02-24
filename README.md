@@ -41,7 +41,7 @@ Mods such as **Optifine**, **CIT**, etc. are **NOT required**.
 
 It may not be fully supported. More mods will be supported in the future.
 
-*Most mod compatible support was provided by **@willowisp2002**. Thank you very much!*
+*Most mod compatible support was provided by **@pictochats_**. Thank you very much!*
 
 - [Ad Astra](https://modrinth.com/mod/ad-astra)
 - [Architect&#39;s Palette](https://modrinth.com/mod/architects-palette)
