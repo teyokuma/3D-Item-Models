@@ -4,9 +4,9 @@
 
 ***3D models for 2D sprite items!***
 
-## [2.1] - 2025-00-00
+## [2.1] - 2025-03-26
 
-This update includes additional item models that will be added in the new version, added variations of Painting and Armor Trim item models using property, and bug fixes.
+This update includes additional item models that will be added in the new version, added variations of item model variations based on property, fixes to keep the model consistent, and bug fixes.
 
 ### Added item models
 
@@ -26,15 +26,49 @@ This update includes additional item models that will be added in the new versio
 
 ### Updated item models
 
-- Fixed broken models in new versions
+- Fixed broken models
   - trapped_chest
   - banner
   - wolf_armor
   - saddle
   - heavy_core
   - lectern
-- Variation added to item models (25w03a~) and added resin armor trim material
+  - enchanting_table
+- Fixed to use correct tint color
+  - sugar_cane
+- Changed to use a not data-driven model (special model)
+  - ender_chest
+  - acacia_sign
+  - bamboo_sign
+  - birch_sign
+  - cherry_sign
+  - crimson_sign
+  - dark_oak_sign
+  - jungle_sign
+  - mangrove_sign
+  - oak_sign
+  - pale_oak_sign
+  - spruce_sign
+  - warped_sign
+  - acacia_hanging_sign
+  - bamboo_hanging_sign
+  - birch_hanging_sign
+  - cherry_hanging_sign
+  - crimson_hanging_sign
+  - dark_oak_hanging_sign
+  - jungle_hanging_sign
+  - mangrove_hanging_sign
+  - oak_hanging_sign
+  - pale_oak_hanging_sign
+  - spruce_hanging_sign
+  - warped_hanging_sign
+- Changed to use composite model
+  - pink_petals
+- Christmas textures are now reflected in item models
+  - chest_minecart
+- Painting types are now reflected in the item model
   - painting
+- Armor Trims types are now reflected in the item model
   - leather_helmet
   - leather_chestplate
   - leather_leggings
@@ -60,6 +94,31 @@ This update includes additional item models that will be added in the new versio
   - netherite_leggings
   - netherite_boots
   - turtle_helmet
+
+### Mod Updates
+
+- Added item model for garden of the dead
+  - blistercrown
+  - glowing_soul_spore
+  - soul_spore
+  - soulblight_door
+  - soulblight_fungus
+  - soulblight_hanging_sign
+  - soulblight_sprouts
+  - tail_blistercrown
+  - whistlecane
+  - whistlecane_door
+  - whistlecane_hanging_sign
+  - whistlecane_sign
+- Added item model for trailiertales
+  - cyan_rose
+  - dawntrail
+  - manedrop
+- Added item model for wilderwild
+  - cattail
+  - maple_spling
+  - mycelium_growth
+  - violet_beauty_glory_of_the_snow
 
 ## **[2.0] - 2024-10-07**
 
