@@ -4,7 +4,7 @@
 
 ***3D models for 2D sprite items!***
 
-## [2.1] - 2025-03-26
+## [2.1] - 2025-03-26 (Spling to Life)
 
 This update includes additional item models that will be added in the new version, added variations of item model variations based on property, fixes to keep the model consistent, and bug fixes.
 
