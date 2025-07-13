@@ -353,6 +353,13 @@
           "model": "minecraft:item/paintings/wither"
         },
         "when": "minecraft:wither"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/paintings/dennis"
+        },
+        "when": "minecraft:dennis"
       }
     ],
     "fallback": {
