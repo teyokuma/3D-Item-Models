@@ -1,12 +1,12 @@
-# teyokuma's 3D Item Models
+# Block-Accurate: 3D Item Models
 
-<img src="https://github.com/user-attachments/assets/9528d2d7-49f3-4adb-9d5d-13a91917146f" width="1024">
+<img src="https://private-user-images.githubusercontent.com/126127493/553652686-449393f0-c44c-4e1a-8a99-2d12c043ebac.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE4NzMzNDIsIm5iZiI6MTc3MTg3MzA0MiwicGF0aCI6Ii8xMjYxMjc0OTMvNTUzNjUyNjg2LTQ0OTM5M2YwLWM0NGMtNGUxYS04YTk5LTJkMTJjMDQzZWJhYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIyM1QxODU3MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZmZhZDA5MGMyMTNhMWY0MmY2N2NhZDAyNTg1YmUyZjgyNzcxZGRhY2VhMTFkNjI2YjFhNmIxMzQ4MGRjM2FmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.t7wRcXgpW6kP5snK6kr4RPHSWylZlRrdlhHva07eGp0" width="1024">
 
 ***3D models for 2D sprite items!***
 
 ## **❔ About**
 
-teyokuma's 3D Item Models is a resource pack for *Minecraft: Java Edition*. It also supports multiple mods.
+"Block-Accurate: 3D Item Models" is a resource pack for *Minecraft: Java Edition*. It also supports multiple mods.
 
 It is intended to add 3D models to 2D sprite items and to make items with all unique models consistent.
 Models and textures are not added or changed and can be used in conjunction with other resource packs.
