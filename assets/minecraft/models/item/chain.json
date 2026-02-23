@@ -1,8 +1,7 @@
 {
     "parent": "block/chain",
 	"textures": {
-		"particle": "#all",
-		"all": "block/chain"
+		"particle": "#all"
 	},
     "ambientocclusion": false,
 	"gui_light": "front",

@@ -1,5 +1,6 @@
 {   
     "parent": "block/crop",
+    "ambientocclusion": false,
     "gui_light": "front",
     "display": {
         "gui": {

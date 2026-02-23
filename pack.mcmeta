@@ -1,35 +1,67 @@
 {
   "pack": {
+    "description": "3D models for 2D sprite items \n§8v2.3 §8by teyokuma",
     "pack_format": 15,
-    "supported_formats": [ 15, 99 ],
-    "description": "3D models for 2D sprite items \n§1v2.2 §8by teyokuma"
+    "supported_formats": [15, 85],
+    "min_format": [ 15, 0 ],
+    "max_format": [ 85, 0 ]
   },
   "overlays": {
-    "entries": [
+    "entries": [ 
       {
-        "formats": [ 18, 99 ],
+        "formats": [ 18, 85 ],
+        "min_format": [ 18, 0 ],
+        "max_format": [ 85, 0 ],
         "directory": "1.20.2"
       },
       {
-        "formats": [ 22, 99 ],
+        "formats": [ 22, 85 ],
+        "min_format": [ 22, 0 ],
+        "max_format": [ 85, 0 ],
         "directory": "1.20.3"
       },
       {
-        "formats": [ 42, 99 ],
+        "formats": [ 42, 85 ],
+        "min_format": [ 42, 0 ],
+        "max_format": [ 85, 0 ],
         "directory": "1.21.2"
       },
       {
-        "formats": [ 46, 99 ],
+        "formats": [ 46, 85 ],
+        "min_format": [ 46, 0 ],
+        "max_format": [ 85, 0 ],
         "directory": "1.21.4"
       },
       {
-        "formats": [ 55, 99 ],
+        "formats": [ 55, 85 ],
+        "min_format": [ 55, 0 ],
+        "max_format": [ 85, 0 ],
         "directory": "1.21.5"
       },
       {
-        "formats": [ 56, 99 ],
+        "formats": [ 56, 85 ],
+        "min_format": [ 56, 0 ],
+        "max_format": [ 85, 0 ],
         "directory": "1.21.6"
+      },
+      {
+        "formats": [ 65, 85 ],
+        "min_format": [ 65, 0 ],
+        "max_format": [ 85, 0 ],
+        "directory": "1.21.9"
+      },
+      {
+        "formats": [ 70, 85 ],
+        "min_format": [ 70, 0 ],
+        "max_format": [ 85, 0 ],
+        "directory": "1.21.11"
+      },
+      {
+        "formats": [ 76, 85 ],
+        "min_format": [ 76, 0 ],
+        "max_format": [ 85, 0 ],
+        "directory": "26.1"
       }
-    ]
-  }
+      ]
+   }
 }

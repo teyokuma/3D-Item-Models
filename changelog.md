@@ -4,7 +4,19 @@
 
 ***3D models for 2D sprite items!***
 
-## [2.1] - 2025-03-26 (Spling to Life)
+## [2.3] - 2026-02-23
+
+- Added multiple model files to support the latest update (1.21.10 - 26.1)
+- Fixed various issues, including missing texture errors
+- Renamed the resource pack from “teyokuma's 3D Item Models” to “Block-Accurate”
+
+## [2.2] - 2025-10-01
+
+Updates for the latest versions (1.21.8, 1.21.9) and multiple bug fixes!
+
+I don't have the energy to update a detailed changelog, so I'll write it when I feel like it... ;-;
+
+## [2.1] - 2025-03-26 (Spring to Life)
 
 This update includes additional item models that will be added in the new version, added variations of item model variations based on property, fixes to keep the model consistent, and bug fixes.
 

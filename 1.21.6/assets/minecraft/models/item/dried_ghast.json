@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:entity/equipment/happy_ghast_body/dried_ghast_hydration_0",
+    "parent": "minecraft:block/dried_ghast_hydration_0",
     "display": {
         "gui": {
             "rotation": [30, 135, 0],
