@@ -1,6 +1,6 @@
 # Block-Accurate: 3D Item Models
 
-<img src="https://private-user-images.githubusercontent.com/126127493/553652686-449393f0-c44c-4e1a-8a99-2d12c043ebac.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE4NzMzNDIsIm5iZiI6MTc3MTg3MzA0MiwicGF0aCI6Ii8xMjYxMjc0OTMvNTUzNjUyNjg2LTQ0OTM5M2YwLWM0NGMtNGUxYS04YTk5LTJkMTJjMDQzZWJhYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIyM1QxODU3MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZmZhZDA5MGMyMTNhMWY0MmY2N2NhZDAyNTg1YmUyZjgyNzcxZGRhY2VhMTFkNjI2YjFhNmIxMzQ4MGRjM2FmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.t7wRcXgpW6kP5snK6kr4RPHSWylZlRrdlhHva07eGp0" width="1024">
+<img src="https://raw.githubusercontent.com/teyokuma/3D-Item-Models/refs/heads/latest/images/product_header.png" width="1024">
 
 ***3D models for 2D sprite items!***
 
@@ -69,6 +69,7 @@ It may not be fully supported. More mods will be supported in the future.
 
 ### Future compatibility plans
 
+- [Respackopts](https://modrinth.com/mod/respackopts)
 - Blue Skies
 - Nature's Spirit
 - The Twilight Forest

@@ -1,6 +1,6 @@
 # Changelog
 
-<img src="https://github.com/user-attachments/assets/9528d2d7-49f3-4adb-9d5d-13a91917146f" width="1024">
+<img src="https://raw.githubusercontent.com/teyokuma/3D-Item-Models/refs/heads/latest/images/product_header.png" width="1024">
 
 ***3D models for 2D sprite items!***
 
