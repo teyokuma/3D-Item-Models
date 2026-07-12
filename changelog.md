@@ -4,6 +4,18 @@
 
 ***3D models for 2D sprite items!***
 
+## [2.4] - 2026-07-12
+
+- Added support for 26.3
+  - Added models for all Cushion color variants
+  - Updated the Shelf Mushroom model
+  - Added models for all Poplar wood set items
+- Updated support for 26.1 / 26.2
+  - Converted the Bell model to a Composite model
+  - Added the Sulfur Spike model
+  - Fixed Bed model rendering
+  - Updated the Sign and Hanging Sign model types for all wood sets to match the block model type
+
 ## [2.3] - 2026-02-23
 
 - Added multiple model files to support the latest update (1.21.10 - 26.1)
