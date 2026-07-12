@@ -1,0 +1,23 @@
+{
+	"format_version": "1.21.11",
+	"parent": "block/thin_block",
+	"texture_size": [64, 64],
+	"textures": {
+		"particle": "#cushion"
+	},
+	"elements": [
+		{
+			"name": "cushion",
+			"from": [0, 0, 0],
+			"to": [16, 4, 16],
+			"faces": {
+				"north": {"uv": [8, 4, 4, 5], "texture": "#cushion"},
+				"east": {"uv": [12, 4, 8, 5], "texture": "#cushion"},
+				"south": {"uv": [16, 4, 12, 5], "texture": "#cushion"},
+				"west": {"uv": [4, 4, 0, 5], "texture": "#cushion"},
+				"up": {"uv": [4, 4, 8, 0], "texture": "#cushion"},
+				"down": {"uv": [8, 0, 12, 4], "texture": "#cushion"}
+			}
+		}
+	]
+}

@@ -1,66 +1,78 @@
 {
   "pack": {
-    "description": "3D models for 2D sprite items \n§8v2.3 §8by teyokuma",
+    "description": "3D models for 2D sprite items \n§8v2.4 §8by teyokuma",
     "pack_format": 15,
-    "supported_formats": [15, 85],
+    "supported_formats": [15, 91],
     "min_format": [ 15, 0 ],
-    "max_format": [ 85, 0 ]
+    "max_format": [ 91, 0 ]
   },
   "overlays": {
     "entries": [ 
       {
-        "formats": [ 18, 85 ],
+        "formats": [ 18, 91 ],
         "min_format": [ 18, 0 ],
-        "max_format": [ 85, 0 ],
+        "max_format": [ 91, 0 ],
         "directory": "1.20.2"
       },
       {
-        "formats": [ 22, 85 ],
+        "formats": [ 22, 91 ],
         "min_format": [ 22, 0 ],
-        "max_format": [ 85, 0 ],
+        "max_format": [ 91, 0 ],
         "directory": "1.20.3"
       },
       {
-        "formats": [ 42, 85 ],
+        "formats": [ 42, 91 ],
         "min_format": [ 42, 0 ],
-        "max_format": [ 85, 0 ],
+        "max_format": [ 91, 0 ],
         "directory": "1.21.2"
       },
       {
-        "formats": [ 46, 85 ],
+        "formats": [ 46, 91 ],
         "min_format": [ 46, 0 ],
-        "max_format": [ 85, 0 ],
+        "max_format": [ 91, 0 ],
         "directory": "1.21.4"
       },
       {
-        "formats": [ 55, 85 ],
+        "formats": [ 55, 91 ],
         "min_format": [ 55, 0 ],
-        "max_format": [ 85, 0 ],
+        "max_format": [ 91, 0 ],
         "directory": "1.21.5"
       },
       {
-        "formats": [ 56, 85 ],
-        "min_format": [ 56, 0 ],
-        "max_format": [ 85, 0 ],
+        "formats": [ 63, 91 ],
+        "min_format": [ 63, 0 ],
+        "max_format": [ 91, 0 ],
         "directory": "1.21.6"
       },
       {
-        "formats": [ 65, 85 ],
-        "min_format": [ 65, 0 ],
-        "max_format": [ 85, 0 ],
+        "formats": [ 69, 91 ],
+        "min_format": [ 69, 0 ],
+        "max_format": [ 91, 0 ],
         "directory": "1.21.9"
       },
       {
-        "formats": [ 70, 85 ],
-        "min_format": [ 70, 0 ],
-        "max_format": [ 85, 0 ],
+        "formats": [ 75, 91 ],
+        "min_format": [ 75, 0 ],
+        "max_format": [ 91, 0 ],
         "directory": "1.21.11"
       },
       {
-        "formats": [ 76, 85 ],
-        "min_format": [ 76, 0 ],
-        "max_format": [ 85, 0 ],
+        "formats": [ 84, 91 ],
+        "min_format": [ 84, 0 ],
+        "max_format": [ 91, 0 ],
         "directory": "26.1"
+      },
+            {
+        "formats": [ 88, 91 ],
+        "min_format": [ 88, 0 ],
+        "max_format": [ 91, 0 ],
+        "directory": "26.2"
+      },
+      {
+        "formats": [ 91, 91 ],
+        "min_format": [ 91, 0 ],
+        "max_format": [ 91, 0 ],
+        "directory": "26.3"
       }
       ]
    }

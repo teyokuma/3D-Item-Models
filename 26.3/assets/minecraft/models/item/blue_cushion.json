@@ -1,0 +1,6 @@
+{
+  "parent": "item/templates/cushion",
+  "textures": {
+    "cushion": "entity/cushion/blue_cushion"
+  }
+}
