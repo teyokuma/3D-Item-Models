@@ -1,9 +1,9 @@
 {
   "pack": {
-    "description": "3D models for 2D sprite items \n§8v2.5 §8by teyokuma",
-    "pack_format": 7,
-    "supported_formats": [7, 91],
-    "min_format": [ 7, 0 ],
+    "description": "Adds accurate 3D models to items in Minecraft! §8by teyokuma",
+    "pack_format": 15,
+    "supported_formats": [15, 91],
+    "min_format": [ 15, 0 ],
     "max_format": [ 91, 0 ]
   },
   "overlays": {
