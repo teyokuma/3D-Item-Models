@@ -2,76 +2,76 @@
   "pack": {
     "description": "Adds accurate 3D models to items in Minecraft! §8by teyokuma",
     "pack_format": 15,
-    "supported_formats": [15, 91],
+    "supported_formats": [15, 99],
     "min_format": [ 15, 0 ],
-    "max_format": [ 91, 0 ]
+    "max_format": [ 99, 0 ]
   },
   "overlays": {
     "entries": [ 
       {
-        "formats": [ 18, 91 ],
+        "formats": [ 18, 99 ],
         "min_format": [ 18, 0 ],
-        "max_format": [ 91, 0 ],
+        "max_format": [ 99, 0 ],
         "directory": "1.20.2"
       },
       {
-        "formats": [ 22, 91 ],
+        "formats": [ 22, 99 ],
         "min_format": [ 22, 0 ],
-        "max_format": [ 91, 0 ],
+        "max_format": [ 99, 0 ],
         "directory": "1.20.3"
       },
       {
-        "formats": [ 42, 91 ],
+        "formats": [ 42, 99 ],
         "min_format": [ 42, 0 ],
-        "max_format": [ 91, 0 ],
+        "max_format": [ 99, 0 ],
         "directory": "1.21.2"
       },
       {
-        "formats": [ 46, 91 ],
+        "formats": [ 46, 99 ],
         "min_format": [ 46, 0 ],
-        "max_format": [ 91, 0 ],
+        "max_format": [ 99, 0 ],
         "directory": "1.21.4"
       },
       {
-        "formats": [ 55, 91 ],
+        "formats": [ 55, 99 ],
         "min_format": [ 55, 0 ],
-        "max_format": [ 91, 0 ],
+        "max_format": [ 99, 0 ],
         "directory": "1.21.5"
       },
       {
-        "formats": [ 63, 91 ],
+        "formats": [ 63, 99 ],
         "min_format": [ 63, 0 ],
-        "max_format": [ 91, 0 ],
+        "max_format": [ 99, 0 ],
         "directory": "1.21.6"
       },
       {
-        "formats": [ 69, 91 ],
+        "formats": [ 69, 99 ],
         "min_format": [ 69, 0 ],
-        "max_format": [ 91, 0 ],
+        "max_format": [ 99, 0 ],
         "directory": "1.21.9"
       },
       {
-        "formats": [ 75, 91 ],
+        "formats": [ 75, 99 ],
         "min_format": [ 75, 0 ],
-        "max_format": [ 91, 0 ],
+        "max_format": [ 99, 0 ],
         "directory": "1.21.11"
       },
       {
-        "formats": [ 84, 91 ],
+        "formats": [ 84, 99 ],
         "min_format": [ 84, 0 ],
-        "max_format": [ 91, 0 ],
+        "max_format": [ 99, 0 ],
         "directory": "26.1"
       },
             {
-        "formats": [ 88, 91 ],
+        "formats": [ 88, 99 ],
         "min_format": [ 88, 0 ],
-        "max_format": [ 91, 0 ],
+        "max_format": [ 99, 0 ],
         "directory": "26.2"
       },
       {
-        "formats": [ 91, 91 ],
+        "formats": [ 91, 99 ],
         "min_format": [ 91, 0 ],
-        "max_format": [ 91, 0 ],
+        "max_format": [ 99, 0 ],
         "directory": "26.3"
       }
       ]
